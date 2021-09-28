@@ -1,0 +1,13 @@
+D:\Coba Coding\C#\BuatSambal\BuatSambal\obj\Debug\netcoreapp3.1\BuatSambal.csprojAssemblyReference.cache
+D:\Coba Coding\C#\BuatSambal\BuatSambal\obj\Debug\netcoreapp3.1\BuatSambal.AssemblyInfoInputs.cache
+D:\Coba Coding\C#\BuatSambal\BuatSambal\obj\Debug\netcoreapp3.1\BuatSambal.AssemblyInfo.cs
+D:\Coba Coding\C#\BuatSambal\BuatSambal\obj\Debug\netcoreapp3.1\BuatSambal.csproj.CoreCompileInputs.cache
+D:\Coba Coding\C#\BuatSambal\BuatSambal\bin\Debug\netcoreapp3.1\BuatSambal.exe
+D:\Coba Coding\C#\BuatSambal\BuatSambal\bin\Debug\netcoreapp3.1\BuatSambal.deps.json
+D:\Coba Coding\C#\BuatSambal\BuatSambal\bin\Debug\netcoreapp3.1\BuatSambal.runtimeconfig.json
+D:\Coba Coding\C#\BuatSambal\BuatSambal\bin\Debug\netcoreapp3.1\BuatSambal.runtimeconfig.dev.json
+D:\Coba Coding\C#\BuatSambal\BuatSambal\bin\Debug\netcoreapp3.1\BuatSambal.dll
+D:\Coba Coding\C#\BuatSambal\BuatSambal\bin\Debug\netcoreapp3.1\BuatSambal.pdb
+D:\Coba Coding\C#\BuatSambal\BuatSambal\obj\Debug\netcoreapp3.1\BuatSambal.dll
+D:\Coba Coding\C#\BuatSambal\BuatSambal\obj\Debug\netcoreapp3.1\BuatSambal.pdb
+D:\Coba Coding\C#\BuatSambal\BuatSambal\obj\Debug\netcoreapp3.1\BuatSambal.genruntimeconfig.cache
